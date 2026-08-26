@@ -1,1 +1,1 @@
-[![indoor_recording](image.png)](https://youtu.be/j-8RWpgCHyM?si=xv3ogOLUcj8GlwO8)
+[![indoor_recording](indoor_testing.gif)](https://youtu.be/j-8RWpgCHyM)
