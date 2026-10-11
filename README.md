@@ -137,14 +137,14 @@ sudo reboot
 ### 2. Get the code
 
 ```bash
-git clone https://github.com/retromonalisa/seraphim-sky.git
+git clone https://github.com/devansh27/seraphim-sky.git
 cd seraphim-sky
 ```
 
 The full clone is about 1 GB, mostly test-recording GIFs. To fetch only the deployment folder:
 
 ```bash
-git clone --filter=blob:none --sparse https://github.com/retromonalisa/seraphim-sky.git
+git clone --filter=blob:none --sparse https://github.com/devansh27/seraphim-sky.git
 cd seraphim-sky
 git sparse-checkout set "5 deployment (on rpi5)"
 ```
@@ -259,7 +259,7 @@ Code in this repository is released under the [MIT License](LICENSE) © 2026 Dev
 
 ## Author
 
-<a href="https://github.com/retromonalisa"><img src="https://avatars.githubusercontent.com/u/70763278?v=4" width="80" alt="retromonalisa on GitHub"></a>
+<a href="https://github.com/devanshj27"><img src="https://avatars.githubusercontent.com/u/70763278?v=4" width="80" alt="devanshj27 on GitHub"></a>
 
-**Devansh Jaiswal** (`devanshj27`) · GitHub [@retromonalisa](https://github.com/retromonalisa)<br>
+**Devansh Jaiswal** (`devanshj27`) · GitHub [@devanshj27](https://github.com/devanshj27)<br>
 Independent Contributor · Project Seraphim Sky · 2026
