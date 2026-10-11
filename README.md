@@ -258,8 +258,7 @@ Code in this repository is released under the [MIT License](LICENSE) © 2026 Dev
 ---
 
 ## Author
-
-<a href="https://github.com/devanshj27"><img src="https://avatars.githubusercontent.com/u/70763278?v=4" width="80" alt="devanshj27 on GitHub"></a>
+<a href="https://github.com/devanshj27"><img src="https://avatars.githubusercontent.com/u/107506278?v=4" width="80" alt="devanshj27 on GitHub"></a>
 
 **Devansh Jaiswal** (`devanshj27`) · GitHub [@devanshj27](https://github.com/devanshj27)<br>
 Independent Contributor · Project Seraphim Sky · 2026
