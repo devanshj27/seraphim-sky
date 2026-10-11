@@ -13,9 +13,9 @@
 [![Dataset](https://img.shields.io/badge/dataset-83k%20images-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/datasets/lgrzybowski/seraphim-drone-detection-dataset)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
-<a href="https://youtu.be/-Y4pE9_w-u8"><img src="test%20recordings/out-door/final-attempts/final_iteration_3.gif" width="400" alt="Outdoor field test: a drone crossing a cloudy sky is boxed and labelled 'drone (0.73)'"></a>
+<a href="https://youtu.be/Hb2t5CzQXDM"><img src="test%20recordings/out-door/final-attempts/final_iteration_2.gif" width="640" alt="Outdoor field test: a drone over an open field is boxed and labelled 'drone (0.73)'"></a>
 
-<sub>Outdoor field test (final iteration 3): detection runs on the camera sensor itself. Click for the full video.</sub>
+<sub>Outdoor field test (final iteration 2): detection runs on the camera sensor itself. Click for the full video.</sub>
 
 [Overview](#overview) · [Results](#key-results) · [Field tests](#field-tests) · [Pipeline](#training--deployment-pipeline) · [Quick start](#quick-start) · [Repository](#repository-structure) · [Technical notes](#technical-notes) · [Author](#author)
 
