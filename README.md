@@ -137,14 +137,14 @@ sudo reboot
 ### 2. Get the code
 
 ```bash
-git clone https://github.com/devansh27/seraphim-sky.git
+git clone https://github.com/devanshj27/seraphim-sky.git
 cd seraphim-sky
 ```
 
 The full clone is about 1 GB, mostly test-recording GIFs. To fetch only the deployment folder:
 
 ```bash
-git clone --filter=blob:none --sparse https://github.com/devansh27/seraphim-sky.git
+git clone --filter=blob:none --sparse https://github.com/devanshj27/seraphim-sky.git
 cd seraphim-sky
 git sparse-checkout set "5 deployment (on rpi5)"
 ```
